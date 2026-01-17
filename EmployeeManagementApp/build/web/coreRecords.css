@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+
+div{
+    width: 1280px;
+    height: 720px;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    background: blue;
+    top: 17%;
+    left: 20%;
+    position: absolute;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+div #submit{
+    margin-top: 105px;
+    margin-left: 25px;
+    border-radius: 20px;
+    width: 600px;
+    height: 200px;
+    font-size: 39px;
+}
